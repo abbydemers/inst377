@@ -1,0 +1,19 @@
+
+
+.header {
+    text-align:center;
+    background-color:darkblue;
+    color:lightblue;
+
+}
+
+.middle {
+    text-align: center;
+    color:lightcoral;
+}
+
+.end {
+    text-align:center;
+    font-family: helvetica;
+    color:navy
+}
